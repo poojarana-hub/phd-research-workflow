@@ -10,3 +10,5 @@ This project is created to manage research work using Git and GitHub.
 - data/ → contains datasets
 - results/ → contains output/results
 - references/ → contains research paper notes
+
+Additional note: This project demonstrates git workflow for research.
