@@ -24,8 +24,8 @@ phd-reserach-workflow/
 ## 📂 Files and Folders Used
 
 * **data/** → Contains dataset used for analysis
-* **scripts/** → Includes preprocessing logic (handling missing values, transformations)
-* **visuals/** → Stores output graphs and plots
+* **src/** → Includes preprocessing logic (handling missing values, transformations)
+* **results/** → Stores output graphs and plots
 * **README.md** → Documentation of the workflow
 * **.gitignore** → Excludes IDE files like `.idea/`
 
@@ -95,7 +95,7 @@ phd-reserach-workflow/
 ## 👩‍💻 Author
 
 **Pooja Rana**
-M.Sc. Computer Science | UGC NET Qualified
+P.hD. Research Scholar | UGC NET Qualified
 Interested in Machine Learning, Research, and Data Analysis
 
 ---
