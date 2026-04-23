@@ -7,13 +7,16 @@
 ## 📁 Project Structure
 
 ```
-project-root/
-│── data/                  # Raw and processed datasets  
-│── notebooks/             # Analysis / experimentation files  
-│── scripts/               # Data cleaning and processing scripts  
-│── visuals/               # Generated plots and charts  
-│── README.md              # Project documentation  
-│── .gitignore             # Ignored files  
+phd-reserach-workflow/
+│── data/              # Raw and processed datasets
+│── docs/              # Project documentation and reports
+│── references/        # Research papers and citation material
+│── results/           # Output results, graphs, and visualizations
+│── src/               # Source code and scripts
+│── README.md          # Project documentation
+│── main.py            # Main execution file
+│── requirements.txt   # Project dependencies
+│── .gitignore         # Ignored files  
 ```
 
 ---
@@ -45,13 +48,13 @@ project-root/
 3. Run preprocessing scripts
 
    ```bash
-   python scripts/data_cleaning.py
+   python src/data_cleaning.py
    ```
 
 4. Generate visualizations
 
    ```bash
-   python scripts/visualization.py
+   python src/visualization.py
    ```
 
 ---
