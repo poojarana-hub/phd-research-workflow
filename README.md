@@ -48,13 +48,13 @@ phd-reserach-workflow/
 3. Run preprocessing scripts
 
    ```bash
-   python src/data_cleaning.py
+   python src/clean_data.py
    ```
 
 4. Generate visualizations
 
    ```bash
-   python src/visualization.py
+   python src/visualize_data.py
    ```
 
 ---
